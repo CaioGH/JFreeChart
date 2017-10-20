@@ -1,0 +1,2 @@
+Libraries to JFreeChart be avaiable: JCommon and JFreeChart
+Link: https://sourceforge.net/projects/jfreechart/files/3.%20JCommon/1.0.23/
